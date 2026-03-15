@@ -1,7 +1,0 @@
-<suite name="FlightTestSuite">
-<test name="FlightSearchTest">
-<classes>
-<class name="FlightSearchTest"/>
-</classes>
-</test>
-</suite>
